@@ -12,6 +12,7 @@ Welcome to my GitHub profile! Here you'll find some of my projects, contribution
 ### 🔧 Technologies and Tools
 
 - **Cloud**: AWS, Azure
+- **AWS Services**: EC2, CloudWatch, ElasticCache (Valky), RDS, ECR, S3, VPC, Load Balancer, IAM 
 - **Containerization**: Docker
 - **Orchestration**: Kubernetes (AKS, EKS), ECS
 - **CI/CD**: Jenkins, GitHub Actions, BitBucket, Azure DevOps
